@@ -41,8 +41,8 @@ cd csv-to-json-converter
   ```
 
 ## Setting Enviroment Varialbles
-$Env: SRS_BASE_DIR = '<source directory>'
-$Env: TGT_BASE_DIR = '<target directory>'
+$Env: SRS_BASE_DIR = '<source>'
+$Env: TGT_BASE_DIR = '<target>'
 
 
 
